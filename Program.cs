@@ -6,8 +6,8 @@ namespace ConsoleApp1
     {
         static void Main()
         {
-            //    {
-            //        // Declare the array of two elements.
+             {
+               // Declare the array of two elements.
             //        int[][] arr = new int[2][];
 
             //        // Initialize the elements.
